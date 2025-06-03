@@ -62,5 +62,5 @@ Muhammad Farhan Saleem (Chaudary)
 GitHub | LinkedIn
 
 📜 License
-This project is open source and available  
+This project is open source and   
 
